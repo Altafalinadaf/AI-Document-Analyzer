@@ -1,0 +1,9 @@
+User Input
+    │
+    ├── Job Description → OpenAI Embedding
+    │
+    └── Resume PDFs → Text Extraction → OpenAI Embedding
+                        │
+                        └── Similarity Calculation
+                                │
+                                └── Ranking & Visualization
